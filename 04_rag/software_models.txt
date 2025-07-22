@@ -1,0 +1,573 @@
+**Page 1:**
+→ As size + complexity of programs increased,
+particular attention was given to the design
+of a program's control flow & structure.
+→The flow charting techniques was developed.
+Software
+↓
+set of instruction + documentation
+
+SDLC (S/W Development Lifecycle)
+SDLC is a process followed for a s/w
+project, within a s/w organisation. It consist
+of a detailed plan describing how to
+develop, maintain, replace & alter or
+enhance specific s/w. The lifecycle define
+a improvement in the quality of s/w &
+overall development process.
+The following figure is a graphical
+representation of various stages of a
+typical SDLC
+[Deployment] → Planning
+↑
+SDLC
+[Defining]
+↓
+[Testing] → Designing
+[Buildings]
+
+**Page 2:**
+increased, softwar
+design
+structure Stage 1: Planning & Requirement Analysis.
+developed. Requirement analysis is the most imp. &
+tion
+s/w
+- consist
+to
+04
+define
+hical
+fundamental stage in
+od by the senior member of the team with
+perform-
+input from the customer, the sales
+department, market survey & domain
+expert in the industry. This info. is
+used to plan the basic project approach
++ to conduct product flexibility study
+in the operational & technical areas.
+Planning for the quality assurance require-
+ments & identification of the risk associated
+with the project is also done in the
+planning stage. The outcome of the technical
+flexibility study is to define various
+technical approaches that can be followed
+to implement the project successfully with
+minimum risk.
+Stage-2: Definning Requirements
+After analysing the needs the next step
+is to be clearly dist & document what
+the product should do. This is done
+using a s/w Requirements Specification (SRS)
+document. The SRS includes all the
+details about what needs to be design
++ build. Once completed the document.
+
+**Page 3:**
+is reviewed & approved by the customer
++ market analyst.
+Stage-3: Designing the Product Architecture
+Using the SRS as a guide, architect creates
+the product design & document it in
+a design document specifications (DDS). They
+purpose different design options which are
+reviewed by customer. The best design
+is chosen based on factors like risk &
+budget. The DDS details how all parts
+of the product will work together &
+interact with other systems.
+Stage-4: Developing the product
+In this stage, the actual coding begins
+based on the DDS. Developers right code
+using programming language like Java
+or C++, following organisational guidelines
+They use tools like compiler & debuggers
+to help with coding. If the design was
+well done, coding should go smoothly
+Stage -5 : Testing the product
+In this stage, the product is throughout
+tested to find & fix bugs or defects
+• defects. Testing happens throughout the
+SDLC but here it's the aim / main focus
+is, defects all reported, tracked &
+
+**Page 4:**
+fixed. Then again, tested. The main goal is
+to insure the product meet the quality
+standards set in the SRS.
+Stage-6 : Deployment & maintenance,
+Once testing is complete the product is
+released to the market. It may be
+launched in stages, starting with & Limited
+crelease for a real world testing (User
+Exceptance Testing). based on a feedback
+the product may be adjusted before a
+full release. After launch on-going
+maintenance is done to support to
+update the product for users.
+SDLC Models
+There are dift models for managing s/w dev.,
+known as s/w development life cycle models.
+Each model has its own steps & approach
+to guide the development process & ensure
+successful project outcomes. following are the
+most imp. & popular SDLC models followed
+in the industry.
+1) Waterfall Model,
+2) Iterative
+3) Spiral
+4) V
+5) Big Bang
+
+**Page 5:**
+Other related methodologies include: orig
+Agile Model
+Focuses on the iterative model develop. with
+frequent feedback & adjustments
+Rad Model
+(Rapid application. development.)
+Emphasis quick development & user feedback
+through purototypes.
+Prototyping Model
+Involve Creating porototypes to refine &
+improve the product based on user
+feedback
+Waterfall Model
+The waterfall model is the earliest.
+SDLC approach known for its linear;
+step-by-step process each phase must
+be completed before moving to the next.
+with no overlapping of phases. This model
+is simple & straight forward, following a
+clear, sequential follow-in s/w development.
+Waterfall Model design
+The waterfall model divides s/w dev.
+into distinct phases. Each phases result is
+
+**Page 6:**
+used as input for the next phase, sequential
+order. This approach was the first widely
+used SDIC model to guide successful projects.
+The following figure is a representation of
+the different phases of the waterfall models.
+Requirement
+Analysis
+↓
+System
+Design
+Implementat
+Testing
+Deployment
+→ Maintenance
+The sequential phases in waterfall model are-
+1) Requisiement Analysis & Ga
+① Requirement Analysies & Gathering
+In this phase all the needs & requirement
+for the system are collected & documented.
+This involves taking to customer & understandi-
+ing what the system will do. The gathered
+info is put into a detailed requirements
+documents.
+2) System Design.
+Based on the requirements documents, the
+system design is created. This design
+outlines the h/w & s/w needed & all how
+the system will be structured. It serves
+
+**Page 7:**
+as a blueprint for making the system.
+3) Implementation
+Using the system design, developers make
+the system in small parts called units
+Each unit is developed & tested indially
+usually to ensure it works properly.
+This process is known as unit testing.
+4) Integration & Testing
+Once all units are made & tested, they
+are combined into a complete system.
+The integrated system is tested as a whole
+to find & fix any issue or defects.
+5) Belt Deployment
+After the system passes all test, it is
+released to the customer or launch in
+a market. This phase ensures that the
+product is available for use.
+6) Maintenance
+After deployment, there might be issues
+or bugs that need fixing. Maintenance
+involve releasing patches to address
+these problems & providing updates: or
+new version to improve the system.
+Waterfall Model Application
+The waterfall model works best in the
+situations:
+
+**Page 8:**
+1) well defined requirement: when the
+requirements cleared, fixed & well documented.
+2) Product
+Stable Definition
+When the products features & goals are
+Stable.
+3) Non-technology
+when the technology used in is well
+understood & not changing
+4) No Ambiguity
+When there are no unclear requirements.
+5) Available Resources
+When there enough skilled resources to
+support the project
+6) Shourt Project Duration
+When the product is relatively short &
+manageable.
+Waterfall model Advantages
+The waterfall model has several benefits:
+1) Simple & Easy
+It's it is straightforward to understand
+& use.
+2) Easy to Manage
+• The model structure makes its easy
+
+**Page 9:**
+to manage since each phase has clear
+goal & review.
+3) Good for small Projects.
+It works well for small projects with
+well defined requirement.
+Waterfall Model Disadvantages.
+The waterfall model has several drawbacks
+1) late working s/w
+You don't a see a working product until
+later in the process.
+2) Poor for long projects
+It is not suitable for dong or ongoing
+projects.
+3) Process Ha Measurement Issue
+It is tough to measure progress within
+each phase.
+Prototype Model
+The prototype model involve creating a
+simple, early version of software to help
+understand & refine what the final
+product should be. This prototype is
+not fully functional or polished but
+help gather feedback from clients who
+
+**Page 10:**
+might only have a rough idea of there
+needs. By the prototype client can
+better experience what they want, allowing
+developers to improve & adjust the design
+before making a final version. It's useful
+when detailed requirement are not clear
+from the start.
+Requirement Gathering
+Quick Decision
+Refine Requirements
+Build Prototype
+Customer evalution
+of Prototype
+Acceptance by customer
+↓
+Design
+↓
+Implementation
+Testing
+↓
+Maintenance
+Requirement Gathering + Analysis
+Collect all initial requirements from
+the client & analyise them to underst
+
+**Page 11:**
+these needs & expectation. These forms the
+basis for creating a prototype.
+Quick Decision
+Decide on the key features & scope of the
+purototype based on the gathered require-
+ments. This helps in focusing on the mast
+critical aspect of the system.
+Build a Prototype
+Develop a primary vision version of the s/w
+with basic functionality to demonstrate
+core concepts & design. This purototype is
+typically rough & incomplete.
+Assessment or User Evaluation.
+Present the prototype to users for
+feedback on its functionality. This helps
+in identifying areas for improvement &
+conforming if the system meets user
+needs.
+Prototype Refinement
+Modify & enhance the prototype based on
+the feedback received to better align
+with user requirements to accet
+expectation. This process helps in fine-
+twining the system.
+
+**Page 12:**
+Engineer Product
+Once the purototype meets user satisfaction
+proceed with the detailed development &
+engineering of the final s/w product, all
+necessary features & optimization.
+Same as Waterfall model other
+Advantages of Prototype Model
+1) Reduce the risk of incorrect user requirement
+2) Good where requirement are changing &
+uncommitted.
+3) Support early product marketing.
+4) Reduce maintenance cost
+5) Errors can be detected much earlier as the
+system is made side by side.
+Disadvantages
+1) An unstable /badly implemented prototype
+of obtain become the final product
+2) Required customer callaboration
+(i) cost customer money
+(ii) Need committed customer
+(iii) Difficult to finish if customer withdrawl
+(iv) Maybe too customer specific
+3) Difficult to know how long the project will
+last.
+
+**Page 13:**
+4) Planning
+Finally, the next step is plan the s/w is
+reviewed & a choice made whether to conti-
+nue with a further period of spiral. If
+it is determined to keep, plan your
+for a next step of the puroject.
+The development phase depends on the rema-
+ining risk.
+When to use spiral model.
+1) When the project is large
+2) When requirements are unclear & complex.
+3) When changes may require at any time
+4) Large & heavy budget projects
+Advantages
+1) High amount of risk analysis
+2) Useful for large & mission critical projects
+Disadvantage
+1) It can be a costly model to use.
+2) Risk analysis needed highly particular
+expertise.
+3) Doesn't work well for small projects.
+Evolutionary Model
+This evolutionary model concept comes.
+
+**Page 14:**
+into the picture after the user faces the
+partial development system rather than
+waiting for the fully developed version.
+This idea of this evolutionary model comes
+from developing the core module & then
+improving the s/w product by using
+iterative & incremental techniques with
+appropriate feedback.
+The evolutionary model is also known as
+successive version of incremental. The main
+aim of this evalutionary model is to
+deliever the products in total process all.
+It also combine the collective model &
+iterative model of SDIC.
+Software
+Concept
+Requirement
+Final
+→ Design
+version
+Develop a
+version
+End user
+Feedback
+Develop
+the version
+Customer
+Feedback
+
+**Page 15:**
+Application of Evolutionary Model
+The evolutionary model is ideal for large
+project with distinct modules that can be
+developed in stages. It's useful when customers
+want to use key features early rather than
+waiting for the entire system its also
+effective in object oriented development where
+the s/w can be broken down into the
+manageable, individual objects. Necessary
+Necessary condn for implementing this model
+1) Customer needs are clear & has been
+explained in deep to the developer team.
+2) There might be small changes required
+in separate parts but not a major
+change.
+3) As it requires time, so there must be
+some time left for the market constrai
+nts.
+4) Risk is high & continuous targets to
+achieve & report to customer repetitively
+5) It is use when working on a technology
+is new & required time to learn.
+
+**Page 16:**
+Advantages of Evolutionary Model
+1) Adaptability
+Easily adjust to changes requirements &
+unclear means
+2) Early Delivery
+Delivery functional parts will deliever
+fastly speed up user feedback & satisfaction
+3) Complex Projects
+Breakdown large projects into smaller,
+manageable prices for easier handling.
+Disadvantages
+1) Common Issues
+Require constant, effective commn, which
+can be challenging if team members
+are remote for disconnected.
+2) Expertise Required
+Needs a skilled team that can quickly
+adapt to change, less experienced team
+may struggle.
+3) Management Complexity
+Managing multiple modules or increments
+can be become complex & require
+strong project management.
+
+**Page 17:**
+4) Higher initial cost
+Frequent testing & feedback can lead to higher
+upfront cost which might be problem for
+tight budgets.
+Iterative. Model
+In this model you can start with some
+of the s/w specifications & develop the
+first version of the s/w. After the first
+version if there is a need to change
+the s/w then a new version of the s/w
+is created with a new iteration. Each
+release of the iterative model finishes in
+an extract & fix period i.e. is called
+iteration.
+The iterative model allows the accessing earlier.
+phases, in which the variation made respecti-
+vely. The final output of the project
+reviewed at the end of the s/w dev. Life
+cycle
+The Various Phases of iterative models are
+as follows:
+1) Requirement Gathering & Analysis
+In this phase requirements are gathered
+from customer & check by an analyst
+whether requirements will fulfill or not.
+Analyst check that need will achieve
+
+**Page 18:**
+Iteration-1
+Requirement
+↓
+Analysis
+↓
+Design
+↓
+Testing
+↓
+Implementation
+↓
+Review
+
+Iteration-2
+Design
+↓
+Testing
+↓
+Implementation
+↓
+Review
+
+Iteration-3
+Design
+↓
+Testing
+↓
+Implementa.
+↓
+Review
+↓
+Deployment
+↓
+Maintenance
+
+within budget or not. after all this the
+s/w team skips to the next phase
+2) Design
+In the design phase, design team design the
+s/w by the diff. diagrams like data flow
+diagram, ER diagram, activity diagram,
+class diagram & state transistion diagram,
+etc.
+3) Implementation
+In the imple. requirements are written
+in coding language to transformed into
+computer programmes which are called
+s/w.
+
+**Page 19:**
+4) Testing
+After completing the coding phase, s/w testing
+starts using diff. test methods. There are many
+test methods, but the most common are white
+box, blackbox & graybox test models.
+5) Deployment
+After completing all the phases s/w is
+deployed to its work environment.
+6) Review
+In this phase, after the product deployment
+review phase is performed to check
+the behaviour & validity of the developed
+product & if there are any error found
+then the processes starts again from the
+requirement gathering.
+7) Maintenance
+In the maintenance, phase after deployment
+of the s/w in the working env. there
+may be some bugs, some errors or new
+updates are required. Maintenance involves
+debugging & new addition options.
+When to use the Iterative Model
+1) When requirements are defined clearly &
+easy to understand.
+2) When the s/w appn is large.
+
+**Page 20:**
+might
+80%-20%-
+No Yes
+may
+50% 50%
+No Yes
+will
+100%%
+Yes
+3) When there is a requirement of changes
+in future.
+Advantages
+1. Testing & debugging during smaller iteration
+is easy.
+2. A parallel development can plan.
+3. It is easily acceptable to ever-changing
+needs of the project.
+4. Risks are identified & resolved during
+iteration.
+5. Limited time spent on documentation &
+extra time on designing.
+Disadvantages
+1) It is not suitable for smaller projects.
+2) More resources may be required.
+3) Design can be changed again & again
+because of imperfect requirements.
+4) Requirements changes can cause over
+budget.
+5) Project completion date not conformed
